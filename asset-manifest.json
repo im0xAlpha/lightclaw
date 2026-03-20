@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lightclaw/static/css/main.41d08cfe.css",
-    "main.js": "/lightclaw/static/js/main.ca35962a.js",
+    "main.js": "/lightclaw/static/js/main.b27b144f.js",
     "static/js/199.746542c3.chunk.js": "/lightclaw/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/lightclaw/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/lightclaw/static/js/27.57be17c9.chunk.js",
@@ -335,6 +335,6 @@
   },
   "entrypoints": [
     "static/css/main.41d08cfe.css",
-    "static/js/main.ca35962a.js"
+    "static/js/main.b27b144f.js"
   ]
 }
