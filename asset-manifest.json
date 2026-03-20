@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lightclaw/static/css/main.19878481.css",
-    "main.js": "/lightclaw/static/js/main.ece92a3f.js",
+    "main.js": "/lightclaw/static/js/main.f4d9386b.js",
     "static/js/774.f83f81be.chunk.js": "/lightclaw/static/js/774.f83f81be.chunk.js",
     "static/js/835.e2ec302e.chunk.js": "/lightclaw/static/js/835.e2ec302e.chunk.js",
     "static/js/787.6c9e3b64.chunk.js": "/lightclaw/static/js/787.6c9e3b64.chunk.js",
@@ -333,7 +333,7 @@
     "static/media/back.svg": "/lightclaw/static/media/back.ec550831b3562fbc4f3725fb37cc3ef9.svg",
     "static/media/menu.svg": "/lightclaw/static/media/menu.5b5e698afeec5bfcd0de.svg",
     "main.19878481.css.map": "/lightclaw/static/css/main.19878481.css.map",
-    "main.ece92a3f.js.map": "/lightclaw/static/js/main.ece92a3f.js.map",
+    "main.f4d9386b.js.map": "/lightclaw/static/js/main.f4d9386b.js.map",
     "774.f83f81be.chunk.js.map": "/lightclaw/static/js/774.f83f81be.chunk.js.map",
     "835.e2ec302e.chunk.js.map": "/lightclaw/static/js/835.e2ec302e.chunk.js.map",
     "787.6c9e3b64.chunk.js.map": "/lightclaw/static/js/787.6c9e3b64.chunk.js.map",
@@ -341,6 +341,6 @@
   },
   "entrypoints": [
     "static/css/main.19878481.css",
-    "static/js/main.ece92a3f.js"
+    "static/js/main.f4d9386b.js"
   ]
 }
