@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/lightclaw/static/css/main.19878481.css",
-    "main.js": "/lightclaw/static/js/main.f4d9386b.js",
-    "static/js/774.f83f81be.chunk.js": "/lightclaw/static/js/774.f83f81be.chunk.js",
-    "static/js/835.e2ec302e.chunk.js": "/lightclaw/static/js/835.e2ec302e.chunk.js",
-    "static/js/787.6c9e3b64.chunk.js": "/lightclaw/static/js/787.6c9e3b64.chunk.js",
-    "static/js/459.1b14702c.chunk.js": "/lightclaw/static/js/459.1b14702c.chunk.js",
+    "main.css": "/lightclaw/static/css/main.41d08cfe.css",
+    "main.js": "/lightclaw/static/js/main.ca35962a.js",
+    "static/js/199.746542c3.chunk.js": "/lightclaw/static/js/199.746542c3.chunk.js",
+    "static/js/42.98b99fa0.chunk.js": "/lightclaw/static/js/42.98b99fa0.chunk.js",
+    "static/js/27.57be17c9.chunk.js": "/lightclaw/static/js/27.57be17c9.chunk.js",
+    "static/js/544.23a90c37.chunk.js": "/lightclaw/static/js/544.23a90c37.chunk.js",
     "static/media/tools-bg-img.jpg": "/lightclaw/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
     "static/media/ceo.svg": "/lightclaw/static/media/ceo.550ff9eb04ff4465572b.svg",
     "static/media/share-position-power.svg": "/lightclaw/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
@@ -331,16 +331,10 @@
     "static/media/target.svg": "/lightclaw/static/media/target.fa48eeda6186426b13c7.svg",
     "static/media/check.svg": "/lightclaw/static/media/check.142188b4c29799eef3c778034da616dc.svg",
     "static/media/back.svg": "/lightclaw/static/media/back.ec550831b3562fbc4f3725fb37cc3ef9.svg",
-    "static/media/menu.svg": "/lightclaw/static/media/menu.5b5e698afeec5bfcd0de.svg",
-    "main.19878481.css.map": "/lightclaw/static/css/main.19878481.css.map",
-    "main.f4d9386b.js.map": "/lightclaw/static/js/main.f4d9386b.js.map",
-    "774.f83f81be.chunk.js.map": "/lightclaw/static/js/774.f83f81be.chunk.js.map",
-    "835.e2ec302e.chunk.js.map": "/lightclaw/static/js/835.e2ec302e.chunk.js.map",
-    "787.6c9e3b64.chunk.js.map": "/lightclaw/static/js/787.6c9e3b64.chunk.js.map",
-    "459.1b14702c.chunk.js.map": "/lightclaw/static/js/459.1b14702c.chunk.js.map"
+    "static/media/menu.svg": "/lightclaw/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.19878481.css",
-    "static/js/main.f4d9386b.js"
+    "static/css/main.41d08cfe.css",
+    "static/js/main.ca35962a.js"
   ]
 }
